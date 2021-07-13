@@ -1,0 +1,49 @@
+_repo: The-Philosophy-and-Theology-of-Averroes_65708
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Muhammad Jamil al-Rahman
+    aliases:
+    - al-Rahman, Muhammad Jamil
+    - Jamil-Ur-Rehman, Mohammad
+    gutenberg_agent_id: '53469'
+    url: http://www.gutenberg.org/2009/agents/53469
+creator:
+  author:
+    agent_name: Averroës
+    aliases:
+    - Ibn-e-Rushd
+    - Averroes
+    - Bin Rusjd, Muhammad bin Ahmad
+    - Ibn Rushd, Abul Walid Muhammad ibn Ahmad
+    - Ibn-i Rushd
+    - Ibn Rashad
+    - Abu al-Walid Muhammad ibn Ahmad ibn Rushd
+    birthdate: 1126
+    deathdate: 1198
+    gutenberg_agent_id: '53468'
+    url: http://www.gutenberg.org/2009/agents/53468
+    wikipedia: https://en.wikipedia.org/wiki/Averroes
+description: ''
+gutenberg_issued: '2021-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65708'
+  lccn: '35022532'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Gaekwad studies in religion and philosophy, XI
+subjects:
+- !lcc 'B'
+- !lcsh 'Philosophy, Arab'
+- !lcsh 'Islam and philosophy'
+- GITenberg
+tableOfContents: 'A decisive discourse on the delineation of the relation between
+  religion and philosophy -- Appendix: On the problem of eternal knowledge which Averroes
+  has mentioned in his decisive discourse -- An exposition of the methods of argument
+  concerning the doctrines of the faith, and a determination of doubts and misleading
+  innovation brought into the faith through interpretations.'
+title: The Philosophy and Theology of Averroes
+url: http://www.gutenberg.org/ebooks/65708
